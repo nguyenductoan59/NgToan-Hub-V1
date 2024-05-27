@@ -2536,7 +2536,7 @@ local S = Window:MakeTab({
 })
 
 local E = Window:MakeTab({
-    Name = "Định vị",
+    Name = "Định vị | Esp",
     Icon = "rbxassetid://4483345998",
     PremiumOnly = false
 })
